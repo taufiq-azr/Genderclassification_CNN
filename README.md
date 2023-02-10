@@ -1,3 +1,3 @@
 # Genderclassification_CNN
 
-Jalankan Di Collabs untuk file ipynb
+Jalankan di google collabs untuk file ipynb
